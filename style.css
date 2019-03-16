@@ -45,14 +45,42 @@ body{
      display: inline-block;
  }
  
+ /*Get Involved*/
+ .getinvolved {
+     background-color: #6842f4;
+     text-align:center;
+     padding:50px 0 80px;
+     width: 100%;
+     }
+ 
+ 
+ .getinvolved h1{
+     color: #fff;
+ }
+ 
+ .options{
+     padding: 30px;
+     margin: 10px;
+     border: 1px solid #ccc;
+     
+     background-color: #fff;
+     border-radius: 5px;
+     margin-top: 30px;
+ }
+ 
+ .getinvolved  i{
+     width: 80px;
+     height: 80px;
+     font-size: 40px;
+ }
  
  
  
- 
- 
- 
- 
- 
- 
- 
+ .contact  .btn{
+     border-radius: 0;
+     width: 100%;
+     font-size: 15px;
+     background-color: #0061ff
+     color: #fff;
+ }
  
